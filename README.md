@@ -3,6 +3,9 @@
 </h1>
 <p align="center"><b>Curso:</b>  Java - Trabalhando com Collections (Digital Innovation One)</p>
 
+<h2 align="center">
+<img src="https://img.shields.io/static/v1?label=Status:&message=Completo ✅&color=32CD32&style=for-the-badge&logo=ghost"/>
+</h2>
 
 ## Descrição do Exercício
 
