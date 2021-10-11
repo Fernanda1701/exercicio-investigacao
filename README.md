@@ -1,5 +1,5 @@
 <h1 align="center">
-    <a href="https://pt-br.reactjs.org/">Resolução de Exercício 📝</a>
+    <a href="https://github.com/Fernanda1701/exercicio-investigacao">Resolução de Exercício 📝</a>
 </h1>
 <p align="center"><b>Curso:</b>  Java - Trabalhando com Collections (Digital Innovation One)</p>
 
